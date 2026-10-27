@@ -1,0 +1,12 @@
+{
+  "name": "digital-phantom-hunter-root",
+  "version": "2.5.0",
+  "description": "DIGITAL PHANTOM HUNTER — Hunt the threat before it hunts you.",
+  "private": true,
+  "scripts": {
+    "dev": "cd phobos && npm run dev",
+    "dev:client": "cd phobos/client && npm run dev",
+    "dev:server": "cd phobos/server && npm run dev",
+    "build": "cd phobos && npm run build"
+  }
+}
